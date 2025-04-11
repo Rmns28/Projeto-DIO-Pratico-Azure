@@ -1,4 +1,4 @@
-# Projeto-Prático-Azure
+# Projeto Prático Azure
 # Projeto Prático - Criando e Monitorando Recursos no Azure com Conta Gratuita Estudante
 
 ## Objetivo do Projeto
